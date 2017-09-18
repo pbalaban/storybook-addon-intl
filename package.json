@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/truffls/storybook-addon-intl#readme",
   "dependencies": {
-    "@storybook/addons": "^3.1.0",
+    "@storybook/addons": "^3.1.6",
     "prop-types": "^15.5.0"
   },
   "devDependencies": {
